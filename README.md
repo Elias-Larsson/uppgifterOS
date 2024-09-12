@@ -21,7 +21,7 @@
 - **git push** - lägger upp ändringarna till github
 - **git clone** - laddar ner från ett remote repository
 
-- TESTESTESTEST
+
 ## källor 
 
 - https://about.gitlab.com/images/press/git-cheat-sheet.pdf
