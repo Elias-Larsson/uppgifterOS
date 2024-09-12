@@ -11,7 +11,7 @@
 - **annan** folder
 - **ls** - visar filer/folders 
 
-
+-MAINMAIMANIn
 ## git-kommandon
 
 - **git init** - skapar en repo i den nuvarande directory
